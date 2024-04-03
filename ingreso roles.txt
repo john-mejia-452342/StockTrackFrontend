@@ -1,0 +1,25 @@
+{
+    "identificacion": "1234567890",
+    "password": "Dioschat123@",
+    "nombre": "Dios",
+    "apellido": "Chat GPT",
+    "telefono": "1234567890",
+    "correo": "chatgpt@gmail.com",
+    "rol": "admin"
+}
+{
+    "nombre":"Sebastian",
+    "identificacion":"1010101010",
+    "correo":"sebastianmunoz0123@gmail.com",
+    "telefono":"3020302030",
+    "rol":"instructor",
+    "password":"Sebassena@11"
+}
+{
+    "nombre":"Edinson",
+    "identificacion":"11001100",
+    "correo":"jhonmejia573@gmail.com",
+    "telefono":"4343334322",
+    "rol":"bodega",
+    "password":"Jhonsena@22"
+}
